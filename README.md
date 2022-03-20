@@ -38,4 +38,5 @@ And as expected, both produced True and False, respectively.
 
 This is one way to solve the problem of cycles in linked lists. I'm sure there are other ways to do so and maybe they're even better. But for now, that's it for me.
 If you want to test the program, please see the file attached or visit this link: jdoodle.com/ia/oHM
+
 Thank you for reading!
